@@ -1,0 +1,14 @@
+base
+slidify
+knitr
+shiny
+MASS
+HistData
+lattice
+survival
+Formula
+Hmisc
+UsingR
+ggplot2
+caret
+shinyapps
